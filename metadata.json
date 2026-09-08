@@ -1,0 +1,7 @@
+{
+  "name": "云端造物 - 硬件创成式设计工作台",
+  "description": "从一句话开始，让想法变成好看、可改、可落地的硬件产品。包含3D交互模型、BOM清单、电气连线与完整工程包导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
